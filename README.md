@@ -2,7 +2,6 @@
 
 
 ## Conecte-se comigo:
-
 <a href="https://www.linkedin.com/in/matheus-monteiro-379128186/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin-logo" width="60" height="60" align="center"/>
 </a>
@@ -17,7 +16,6 @@
 
 
 ## Minhas Habilidades:
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php-skill" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel-skill" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap-skill" width="50" height="50"/>
