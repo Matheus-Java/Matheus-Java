@@ -16,7 +16,7 @@
 
 
 ## Minhas Habilidades:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php-skill" width="50" height="50"/>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php-skill" width="50" height="50"></span>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel-skill" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap-skill" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5-skill" width="50" height="50"/>
