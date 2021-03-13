@@ -29,7 +29,7 @@
 
 ### Sobre meu repositório
 
-![Matheus Monteiro's github status](https://github-readme-stats.vercel.app/api?username=matheus-java&show_icons=true&theme=cobalt) 
+![Matheus Monteiro's github status](https://github-readme-stats.vercel.app/api?username=matheus-java&show_icons=true&theme=Gradient) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
