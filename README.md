@@ -33,6 +33,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devmatheus)](https://github.com/anuraghazra/github-readme-stats)
 
 
